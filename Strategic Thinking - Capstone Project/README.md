@@ -1,0 +1,6 @@
+Strategic Overview of the Business Problem
+
+The Natural Language Processing (NLP) field has experienced rapid advancements nowadays; applications going from sentiment analysis to machine translation. So I took advantage of that in this fascinating domain where NLP can be used in the regards of religious texts, specifically the Bible.
+
+The Bible being a rich source of spiritual wisdom, and its verses cover a wide array of topics such as love, trust, salvation, health, guidance, etc and given the immense relevance of the Bible in religious and spiritual practices around the world due to its growth, being able to automatically categorize and recommend Bible verses based on themes is incredibly valuable for both personal growth and educational purposes.
+By leveraging machine learning algorithms, text classification models, for categorizing Bible verses into given topics (E.G: Love, Salvation, Trust, Guidance, Relationships, and Health) from the King James Bible (KJV) the goal is to train a machine learning model that can predict accurately the correct topic of a Bible verse based on its content. The church that takes advantages of AI will have will have a impact in a younger generation, this new engagement will lead this church to grow, which means potentially increasing their donations.
